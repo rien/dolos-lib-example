@@ -1,0 +1,12 @@
+{
+  "name": "dolos-example",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "@dodona/dolos-lib": "^2.0.1"
+  }
+}
